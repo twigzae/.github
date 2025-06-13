@@ -43,11 +43,7 @@ Interested in partnering, collaborating, or contributing?
 ---
 
 ## 🧑‍💻 Useful Links
-
-- [TWIGZ Mobile App Repository](https://github.com/twigzae/twigz-mobile)
-- [Admin Web Portal](https://github.com/twigzae/twigz-admin)
-- [API & Backend](https://github.com/twigzae/twigz-backend)
-
+-
 ---
 
 ## 🎉 Fun Fact
